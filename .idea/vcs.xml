@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djtutorial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mfshcw-py-poc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/swiftmxhub-py" vcs="Git" />
   </component>
 </project>
